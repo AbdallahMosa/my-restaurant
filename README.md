@@ -1,9 +1,13 @@
 # my-restaurant
-# *WINGMAN*
+#  *WINGMAN*
 ![WingMan pic](wing%20man%20pic.jpg)
 
-*_wings_*
+* *_wings_*
 ![wings](wings.jpg)
-*_Boneless_*
+* *_Boneless_*
 ![Boneless](2.jpg)
- 
+ * *_Menu_* 
+ ![menu](wings%20Man.jpg)
+* [Faceook Page](https://www.facebook.com/Wingman.jo/?ref=page_internal) 
+
+* [Instagram](https://www.instagram.com/wingman.jo/)
