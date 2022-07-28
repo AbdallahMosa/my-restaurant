@@ -4,33 +4,59 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>WINGMAN</title>
+    <link rel="stylesheet" href="./Style.css">
+    <link rel="stylesheet" href="Reset .css">
 </head>
 <body>
     <header>
-            <nav>
-                 <ul>
-                    <li><a href="./index.html">HOME</a></li>
-                    <li><a href="./ABOUT.html">ABOUT</a></li>
-                 </ul>       
+        <table >
+          <tr >
+            <td  width="100"><li><a  href="./index.html">HOME</a></li></td>
+            <td  width="100"><li><a  href="./ABOUT.html">ABOUT</a></li></td>
+          </tr>
+        </table>
+         <h1 id="tital">WINGMAN</h1>
+         <img id="Logo" src="./wing man pic.png"width="100px" height="100px"  alt="Logo">
+          
+           
 
-            </nav>
-            <h1>WINGMAN</h1>
-            <img src="./wing man pic.jpg"width="100px" height="100px"  alt="Logo">
+            
     </header>
     <main>
-        <h1><p>Welcome to WINGMAN Restaurant</p></h1>
-        <img src="./wings Man.jpg" width="300px" height="300px" alt="MENU">
+        <p id="welcome">Welcome to WINGMAN Restaurant</p>
+        <div id="myvideo">
+             <video controls src="./wingman video.mp4" width="500px" height="500px" ></video>
+        </div>
+       <div>
+        <p class="paragraph">Our MENU<p>
+        <img src="./wings Man.jpg" width="400px" height="400px" alt="MENU">
+        <img src="./burger menu.jpg" width="400px" height="400px" alt="buger menu">
+        <img src="./menu3.jpg" width="400px" height="400px" alt="other ">
+ 
+       </div>
+
+       <div>
+
         <img src="./wings.jpg" width="300px" height="300px"  alt="WINGS">
         <img src="./1.jpg" width="300px" height="300px" alt="Boneless">
         <img src="./2.jpg" width="300px" height="300px" alt="wings">
-        <video controls src="./wingman video.mp4" width="300px" height="300px" ></video>
+       </div>
+      
+        
+        
     </main>
     <footer>
-        <a href="https://www.facebook.com/Wingman.jo">facebook</a>
-        <a href="https://www.instagram.com/wingman.jo/">instagram</a>
+        <a class="iocn" href="https://www.facebook.com/Wingman.jo">
+            <ion-icon name="logo-facebook"></ion-icon>
+        </a>
+        <a class="iocn" href="https://www.instagram.com/wingman.jo/">
+            <ion-icon name="logo-instagram"></ion-icon>
+        </a>
         
-        <p>&COPY; copyRights 2022</p>
+        <p class="copy">&COPY; copyRights 2022</p>
     </footer>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </body>
 </html>
