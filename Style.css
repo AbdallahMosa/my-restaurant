@@ -1,0 +1,55 @@
+#tital {font-size: 100px;
+    color: rgb(236, 221, 10);
+    margin: auto;
+    width: 50%;
+    height: 50%;
+}
+body{background: url(./back2.jpg);
+background-size: cover;
+background-position: center ;}
+
+
+#Logo {  position: absolute;
+    top: 0;
+    right: 0;
+    /* width: 200px;
+    height: 100px; */
+    border: 3px solid #28311a;
+        }
+
+      a{ color: #fff;}
+
+      #welcome{position: relative;
+        padding-top: 1%;
+            padding-left: 24%;
+            padding-bottom: 1%;
+                margin:1% 1%;
+            color: #fff;
+            font-size: 40px;}
+           #myvideo {position: relative;
+            padding-top: 1%;
+            padding-left: 30%;
+            padding-bottom: 1%;
+           }
+           .paragraph{color: #fff;
+        font-size: 40px;
+        padding-top: 1%;
+        padding-left: 30%;
+        padding-bottom: 1%;
+    }
+
+    #Talabat {position: relative;
+        margin-left: 50%;
+        padding-top: 40%;
+            padding-left: 50%;
+            padding-bottom: 50%;
+              
+            color: #fff;
+            font-size: 40px;}
+            
+            .copy{color: blue;
+            font-size: 20;}
+
+       .icon{ width:30px  ;
+    height: 40px;}
+         
